@@ -6,7 +6,7 @@
 ### <div align="center">I'm Wiktor, a learning front-end freelance developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [E-Commerce Wesbite](https://as-safwahfoods.co.uk) for my client  
+- 🔭 I’m currently working on E-Commerce Wesbite for my client  
   
 
 - 🌱 I’m currently learning NextJS and website deployment for production  
